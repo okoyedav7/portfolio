@@ -164,7 +164,7 @@ img {
 
 
 #welcome-section{
-    background-image: url(..img/bck.jpg);
+    background-image: url(img/bck.jpg);
     background-size: cover;
     background-blend-mode: multiply; 
 }
@@ -237,7 +237,7 @@ img {
 
 #my-work{
    background-color: #66706F;
-   background-image: url(..img/work.jpg);
+   background-image: url(img/work.jpg);
    background-size: cover;
    background-blend-mode: multiply;
    padding: 40px;
